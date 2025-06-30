@@ -5,7 +5,7 @@
   <a href="https://poornimadev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/poornima-tewatia-5b8765330/" target="_blank">
+  <a href="https://www.linkedin.com/in/poornima-tewatia-5b8765330/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="poornimatewatia48@gmail.com">
@@ -72,9 +72,9 @@
 
 ### 🤝 Let's Connect
 
-📬 Email: `your-email@example.com`  
+📬 Email: `poornimatewatia48@gmail.com`  
 🔗 Portfolio: [poornimadev.vercel.app](https://poornimadev.vercel.app)  
-💼 LinkedIn: [linkedin.com/in/your-linkedin-url](https://linkedin.com/in/your-linkedin-url)
+💼 LinkedIn: [linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/poornima-tewatia-5b8765330/)
 
 ---
 
