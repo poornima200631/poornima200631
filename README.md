@@ -17,27 +17,32 @@
 
 ### 💫 About Me
 
-- 🎓 BTech + MTech (Electrical) at NIT Kurukshetra, 2024–2029
-- 👩‍💻 Currently diving deep into **React**, **DSA**, and **Asynchronous JavaScript**
-- 🌱 Learning full stack development (MERN), APIs, and backend basics
-- 🔥 Preparing for **MAANG internships** and programs like **Google STEP**
-- 💖 Passionate about **women-in-tech**, mentoring, and open source contributions
+- 🎓 BTech + MTech (Electrical) at NIT Kurukshetra, 2024–2029  
+- 👩‍💻 Currently diving deep into **React**, **DSA**, and **Asynchronous JavaScript**  
+- 🌱 Learning full stack development (MERN), APIs, and backend fundamentals  
+- ❤️ Passionate about **women-in-tech**, mentoring, and open source contributions  
 
 ---
 
 ### ⚒️ Tech Stack
 
-#### 💻 Languages & Fundamentals
+#### 💻 Languages & Fundamentals  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-#### 🖼️ Frontend
+#### 🖼️ Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-#### 🛠️ Tools & Platforms
+#### 🧩 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
+
+#### 🛠️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
@@ -55,18 +60,19 @@
 
 ### 🌱 Current Focus
 
-- ⏳ **DSA Practice:** LeetCode, GFG (target: 200+ problems)
-- ⚛️ **React Development:** Building clean UI projects + understanding state management
-- 🌐 **Open Source:** Exploring beginner-friendly repositories
-- 🚀 **Resume & Profile Building:** Targeting high-impact second-year opportunities
+- ✅ **DSA:** 400+ problems completed (LeetCode, GFG)  
+- ⚛️ **React Development:** UI components, hooks, state management  
+- 🧩 **Backend:** APIs with Node.js & Express + MongoDB  
+- 🌐 **Open Source:** Beginner-friendly issues and contributions  
+- 🚀 **Resume & Profile Building:** Strong portfolio + impactful projects  
 
 ---
 
 ### 💡 Fun Facts
 
-- 🌙 Night owl learner — most productive at night 🌌
-- 💬 Love helping peers get started with dev & GitHub
-- 🎯 Goal: Intern at a top tech company & mentor juniors
+- 🌙 Night owl learner — most productive at night 🌌  
+- 💬 Love helping peers get started with dev & GitHub  
+- 🎯 Goal: Build real-world projects & become a strong software engineer  
 
 ---
 
@@ -74,9 +80,8 @@
 
 📬 Email: `poornimatewatia48@gmail.com`  
 🔗 Portfolio: [poornimadev.vercel.app](https://poornimadev.vercel.app)  
-💼 LinkedIn: [linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/poornima-tewatia-5b8765330/)
+💼 LinkedIn: [linkedin.com/in/poornima-tewatia](https://www.linkedin.com/in/poornima-tewatia-5b8765330/)
 
 ---
 
 <p align="center">✨ Let's build something amazing together! ✨</p>
-
