@@ -17,7 +17,7 @@
 
 ### 💫 About Me
 
-- 🎓 BTech + MTech (Electrical) at NIT Kurukshetra, 2024–2029
+- 🎓 Electrical Engineering at NIT Kurukshetra
 - 👩‍💻 Currently diving deep into **React**, **DSA**, and **Asynchronous JavaScript**  
 - 🌱 Learning full stack development (MERN), APIs, and backend fundamentals  
 - ❤️ Passionate about **women-in-tech**, mentoring, and open source contributions  
